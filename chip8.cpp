@@ -3,7 +3,7 @@
 
 //#include "stdafx.h"
 #include <stdio.h>
-#include <glut.h>
+#include "glut.h"
 #include "chip8.h"
 
 // Display size
